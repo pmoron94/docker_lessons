@@ -1,0 +1,23 @@
+{
+  "name": "docker_lessons",
+  "version": "1.0.0",
+  "description": "Ejemplo de una imagen de docker a partir de nuestro codigo fuente",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmoron94/docker_lessons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmoron94/docker_lessons/issues"
+  },
+  "homepage": "https://github.com/pmoron94/docker_lessons#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1"
+  }
+}
