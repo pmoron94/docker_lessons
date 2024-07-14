@@ -72,6 +72,7 @@ docker stop [container_name]
 ```
 
 ### Network commands
+Networks are necesary to connect multiple containers.
 
 - List networks
 ```
